@@ -1,13 +1,6 @@
-﻿using ds.test.impl.Service;
-using ds.test.impl;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Drawing;
+﻿using System.Drawing;
 
-namespace DsTest
+namespace ds.test.impl
 {
     public class Addition : PluginAbstract, IPlugin
     {

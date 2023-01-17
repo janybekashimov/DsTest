@@ -1,4 +1,4 @@
-﻿namespace ds.test.impl.Service
+﻿namespace ds.test.impl
 {
     public interface IPlugin
     {

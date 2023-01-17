@@ -8,11 +8,11 @@
     ".NETCoreApp,Version=v5.0": {
       "DSLibTests/1.0.0": {
         "dependencies": {
-          "DsTest": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.4.1",
           "NUnit": "3.13.3",
           "NUnit3TestAdapter": "4.3.1",
-          "System.Drawing.Common": "7.0.0"
+          "System.Drawing.Common": "7.0.0",
+          "lib": "1.0.0"
         },
         "runtime": {
           "DSLibTests.dll": {}
@@ -322,12 +322,12 @@
         }
       },
       "System.Reflection.Metadata/1.6.0": {},
-      "DsTest/1.0.0": {
+      "lib/1.0.0": {
         "dependencies": {
           "System.Drawing.Common": "7.0.0"
         },
         "runtime": {
-          "DsTest.dll": {}
+          "lib.dll": {}
         }
       }
     }
@@ -422,7 +422,7 @@
       "path": "system.reflection.metadata/1.6.0",
       "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
     },
-    "DsTest/1.0.0": {
+    "lib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,4 +1,4 @@
-﻿using ds.test.impl.Service;
+﻿using DsTest;
 using NUnit.Framework;
 using System;
 using System.Drawing;

@@ -389,17 +389,17 @@
           }
         }
       },
-      "DsTest/1.0.0": {
+      "lib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "System.Drawing.Common": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/DsTest.dll": {}
+          "bin/placeholder/lib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DsTest.dll": {}
+          "bin/placeholder/lib.dll": {}
         }
       }
     }
@@ -959,19 +959,19 @@
         "version.txt"
       ]
     },
-    "DsTest/1.0.0": {
+    "lib/1.0.0": {
       "type": "project",
-      "path": "../lib/DsTest.csproj",
-      "msbuildProject": "../lib/DsTest.csproj"
+      "path": "../lib/lib.csproj",
+      "msbuildProject": "../lib/lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "DsTest >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.4.1",
       "NUnit >= 3.13.3",
       "NUnit3TestAdapter >= 4.3.1",
-      "System.Drawing.Common >= 7.0.0"
+      "System.Drawing.Common >= 7.0.0",
+      "lib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1002,8 +1002,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj": {
-              "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj"
+            "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\lib.csproj": {
+              "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\lib.csproj"
             }
           }
         }

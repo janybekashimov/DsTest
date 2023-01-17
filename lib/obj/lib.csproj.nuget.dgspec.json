@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Жаныбек\\source\\repos\\lib\\lib\\lib.csproj": {}
+    "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\lib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Жаныбек\\source\\repos\\lib\\lib\\lib.csproj": {
+    "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Жаныбек\\source\\repos\\lib\\lib\\lib.csproj",
+        "projectUniqueName": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\lib.csproj",
         "projectName": "lib",
-        "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\lib\\lib\\lib.csproj",
+        "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\lib.csproj",
         "packagesPath": "C:\\Users\\Жаныбек\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Жаныбек\\source\\repos\\lib\\lib\\obj\\",
+        "outputPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Жаныбек\\AppData\\Roaming\\NuGet\\NuGet.Config",

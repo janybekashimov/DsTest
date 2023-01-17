@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\lib\DsTest.csproj" />
+    <ProjectReference Include="..\lib\lib.csproj" />
   </ItemGroup>
 
 </Project>

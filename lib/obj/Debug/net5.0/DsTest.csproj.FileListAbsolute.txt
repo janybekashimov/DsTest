@@ -18,3 +18,15 @@ C:\lib\lib\obj\Debug\net5.0\DsTest.csproj.CoreCompileInputs.cache
 C:\lib\lib\obj\Debug\net5.0\DsTest.dll
 C:\lib\lib\obj\Debug\net5.0\refint\DsTest.dll
 C:\lib\lib\obj\Debug\net5.0\DsTest.pdb
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\bin\Debug\net5.0\DsTest.deps.json
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\bin\Debug\net5.0\DsTest.dll
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\bin\Debug\net5.0\DsTest.pdb
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\obj\Debug\net5.0\DsTest.csproj.AssemblyReference.cache
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\obj\Debug\net5.0\DsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\obj\Debug\net5.0\DsTest.AssemblyInfoInputs.cache
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\obj\Debug\net5.0\DsTest.AssemblyInfo.cs
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\obj\Debug\net5.0\DsTest.csproj.CoreCompileInputs.cache
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\obj\Debug\net5.0\DsTest.dll
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\obj\Debug\net5.0\refint\DsTest.dll
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\obj\Debug\net5.0\DsTest.pdb
+C:\Users\Жаныбек\source\repos\WebApplication3\DsTest\lib\obj\Debug\net5.0\ref\DsTest.dll

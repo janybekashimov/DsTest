@@ -1,7 +1,6 @@
-﻿using DsTest;
-using System;
+﻿using System;
 
-namespace ds.test.impl.Service
+namespace ds.test.impl
 {
     public class Plugins : IPluginFactory
     {
