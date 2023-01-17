@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lib\\DSLibTests\\DSLibTests.csproj": {}
+    "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\DSLibTests\\DSLibTests.csproj": {}
   },
   "projects": {
-    "C:\\lib\\DSLibTests\\DSLibTests.csproj": {
+    "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\DSLibTests\\DSLibTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lib\\DSLibTests\\DSLibTests.csproj",
+        "projectUniqueName": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\DSLibTests\\DSLibTests.csproj",
         "projectName": "DSLibTests",
-        "projectPath": "C:\\lib\\DSLibTests\\DSLibTests.csproj",
+        "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\DSLibTests\\DSLibTests.csproj",
         "packagesPath": "C:\\Users\\Жаныбек\\.nuget\\packages\\",
-        "outputPath": "C:\\lib\\DSLibTests\\obj\\",
+        "outputPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\DSLibTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Жаныбек\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\lib\\lib\\DsTest.csproj": {
-                "projectPath": "C:\\lib\\lib\\DsTest.csproj"
+              "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj": {
+                "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\lib\\lib\\DsTest.csproj": {
+    "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lib\\lib\\DsTest.csproj",
+        "projectUniqueName": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj",
         "projectName": "DsTest",
-        "projectPath": "C:\\lib\\lib\\DsTest.csproj",
+        "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj",
         "packagesPath": "C:\\Users\\Жаныбек\\.nuget\\packages\\",
-        "outputPath": "C:\\lib\\lib\\obj\\",
+        "outputPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Жаныбек\\AppData\\Roaming\\NuGet\\NuGet.Config",

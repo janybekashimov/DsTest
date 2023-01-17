@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\lib\\lib\\DsTest.csproj",
+      "projectUniqueName": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj",
       "projectName": "DsTest",
-      "projectPath": "C:\\lib\\lib\\DsTest.csproj",
+      "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj",
       "packagesPath": "C:\\Users\\Жаныбек\\.nuget\\packages\\",
-      "outputPath": "C:\\lib\\lib\\obj\\",
+      "outputPath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Жаныбек\\AppData\\Roaming\\NuGet\\NuGet.Config",

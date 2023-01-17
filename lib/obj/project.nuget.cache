@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NtkR5xnpMS3cX+mo5zqOibyyZolgTwvih5dax2Ar3/A1d/HrfMv59nSE/xpOnI6Nldn1jC/eXGRYiTgJn4hTMw==",
+  "dgSpecHash": "SRx/r1Fz2XWzw94MjSi/7AxrDaBhA2IxXI7Urs8s9cPi3El8+XemUUyq4mo3ZT8wUdxpPTu3m/1D6dWtVy6qPA==",
   "success": true,
-  "projectFilePath": "C:\\lib\\lib\\DsTest.csproj",
+  "projectFilePath": "C:\\Users\\Жаныбек\\source\\repos\\WebApplication3\\DsTest\\lib\\DsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Жаныбек\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
   ],
